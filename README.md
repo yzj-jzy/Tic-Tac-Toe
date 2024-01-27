@@ -5,6 +5,7 @@ filledand no one wins, the game ends in a draw.
 
 # UI/UX
 ![image](https://github.com/yzj-jzy/Tic-Tac-Toe/assets/80561240/68a55e6e-9fee-4eb9-ada8-9754680efb44)
+![image](https://github.com/yzj-jzy/Tic-Tac-Toe/assets/80561240/4190efca-8197-40ba-b7f9-be29f0d1a43b)
 
 
 # Key feature
@@ -26,8 +27,12 @@ Please Place ip and port with real one
 etc ip: localhost port 8080</br>
 Warning: Do dot close it unless not more game running
 
+
 4. Run client(New player)
 ```
 java -jar client.jar username server_ip server_port
 ```
 The server_ip and server_port should corresponse to sever one in step3
+
+# Implementation solution
+A report can be found [here](https://github.com/yzj-jzy/Tic-Tac-Toe/blob/master/tic-tac-toe%20(1).pdf)
