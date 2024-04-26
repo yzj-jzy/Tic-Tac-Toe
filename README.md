@@ -5,7 +5,6 @@ filledand no one wins, the game ends in a draw.
 
 # UI/UX
 ![image](https://github.com/yzj-jzy/Tic-Tac-Toe/assets/80561240/68a55e6e-9fee-4eb9-ada8-9754680efb44)
-![image](https://github.com/yzj-jzy/Tic-Tac-Toe/assets/80561240/4190efca-8197-40ba-b7f9-be29f0d1a43b)
 
 
 # Key feature
